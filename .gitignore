@@ -4,5 +4,8 @@
 *.log
 *.synctex.gz
 *.pdf
-
 !urnik-resitev.pdf
+!*-resitev.pdf
+*.toc
+*.bbl
+*.blg
